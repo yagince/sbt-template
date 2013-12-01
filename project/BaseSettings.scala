@@ -5,7 +5,7 @@ object BaseSettings {
   val buildName = "MyProject"
   val buildOrg  = "yagince"
   val buildVersion = "0.0.1"
-  val buildScalaVersion = "2.10.1"
+  val buildScalaVersion = "2.10.3"
 
   val settings = Seq(
     name := buildName,
